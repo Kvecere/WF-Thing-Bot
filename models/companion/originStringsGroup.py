@@ -1,0 +1,18 @@
+class OriginStringsGroup:
+    exportCustoms: str
+    exportDrones: str
+    exportDrones: str
+    exportFlavour: str
+    exportFusionBundles: str
+    exportGear: str
+    exportKeys: str
+    exportRecipes: str
+    exportRegions: str
+    exportRelicArcane: str
+    exportResources: str
+    exportSentinels: str
+    exportSortieRewards: str
+    exportUpgrades: str
+    exportWarframes: str
+    exportWeapons: str
+    exportManifest: str
