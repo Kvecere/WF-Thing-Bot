@@ -1,0 +1,2 @@
+class LibraryInfo:
+    lastCompletedTargetType: str
